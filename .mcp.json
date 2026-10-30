@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "landingboost": {
+      "type": "http",
+      "url": "https://landingboost.app/mcp"
+    }
+  }
+}

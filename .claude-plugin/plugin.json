@@ -1,0 +1,23 @@
+{
+  "name": "landingboost",
+  "displayName": "LandingBoost",
+  "version": "1.0.0",
+  "description": "Check a landing page on a phone-size screen and a desktop, fix what is measurably broken in your code, and re-check the live page after you publish.",
+  "author": {
+    "name": "LandingBoost",
+    "email": "support@landingboost.app",
+    "url": "https://landingboost.app"
+  },
+  "homepage": "https://landingboost.app/mcp",
+  "repository": "https://github.com/yskmtb0714/landingboost-plugin",
+  "license": "MIT",
+  "keywords": [
+    "landing-page",
+    "pricing-page",
+    "conversion",
+    "copywriting",
+    "website",
+    "seo"
+  ],
+  "privacyPolicyUrl": "https://landingboost.app/privacy"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "landingboost",
+  "owner": {
+    "name": "LandingBoost",
+    "email": "support@landingboost.app",
+    "url": "https://landingboost.app"
+  },
+  "description": "LandingBoost for Claude Code: check your landing page on a phone-size screen and a desktop, and fix what is measurably broken.",
+  "plugins": [
+    {
+      "name": "landingboost",
+      "source": "./",
+      "description": "Check a landing page on a phone-size screen and a desktop, fix what is measurably broken in your code, and re-check the live page after you publish."
+    }
+  ]
+}
