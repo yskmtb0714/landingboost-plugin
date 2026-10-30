@@ -19,5 +19,8 @@
     "website",
     "seo"
   ],
-  "privacyPolicyUrl": "https://landingboost.app/privacy"
+  "privacyPolicyUrl": "https://landingboost.app/privacy",
+  "documentationUrl": "https://landingboost.app/mcp",
+  "supportUrl": "https://landingboost.app/#faq",
+  "termsOfServiceUrl": "https://landingboost.app/terms"
 }
